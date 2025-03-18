@@ -203,7 +203,6 @@ public class ShopManagement {
         }
     }
 
-    // Quản lý sản phẩm (tương tự như quản lý danh mục)
     private static void displayProducts() {
         if (products.isEmpty()) {
             System.out.println("Danh sách sản phẩm trống.");
